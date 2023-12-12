@@ -15,8 +15,8 @@ This Python script generates two 3D lists filled with random integers and then m
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/3d-list-multiplication.git
-    cd 3d-list-multiplication
+    git clone https://github.com/R1xhark/3D-list-GENERATOR.git
+    cd 3D-list-GENERATOR
     ```
 
 2. Run the script:
